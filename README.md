@@ -2,7 +2,7 @@
 
 ## Installation 
 
-If you have docker, you can just compose up
+If you have docker, you can just clone the repo and docker compose up
 
 `docker-compose up --build`
 
@@ -15,3 +15,11 @@ CD into client and install
 
 CD into server and install
 `cd Server && npm install`
+
+then start each server individually
+i.e 
+
+CD into client and run
+`npm run start`
+CD into server and run
+`npm start`

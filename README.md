@@ -11,10 +11,10 @@ Or you can install each application dependencies individually
 i.e 
 
 CD into client and install
-`cd Client && npm install`
+`npm install`
 
 CD into server and install
-`cd Server && npm install`
+`npm install`
 
 then start each server individually
 i.e 

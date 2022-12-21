@@ -21,5 +21,6 @@ i.e
 
 CD into client and run
 `npm run start`
+
 CD into server and run
 `npm start`
